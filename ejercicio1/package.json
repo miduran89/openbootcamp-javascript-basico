@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "ejercicio 1 del curso javascript-basico",
+  "main": "index.js",
+  "scripts": {
+    "saludo1":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primerproyecto"
+  ],
+  "author": "Miguel Duran",
+  "license": "ISC"
+}
